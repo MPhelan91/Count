@@ -4,4 +4,4 @@ See the privacy policy for our iOS app [here](https://github.com/MPhelan91/Count
 
 ### Support or Contact
 
-Having trouble with Count for iOS, or would you just like to give feedback?  Please Contact us at count.contact.us@gmail.com
+Having trouble with Count for iOS, or would you like to offer feedback?  Please Contact us at count.contact.us@gmail.com
