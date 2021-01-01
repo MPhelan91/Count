@@ -1,0 +1,6 @@
+This App does not collect personal information.
+
+This App does not collect, use, save, or have access to any of the personal data you've entered or logged.
+
+If you use your device's camera to take a picture and scan a nutrition label, that picture and its metadata is not saved by our app or your phone.  It is only scanned for nutritional information and then discarded. 
+
